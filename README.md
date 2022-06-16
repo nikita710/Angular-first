@@ -1,2 +1,2 @@
-# Angula-first
+# Angular-first
 angular-first-repo
